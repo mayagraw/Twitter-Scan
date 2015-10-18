@@ -3,7 +3,7 @@ import urllib2 as urllib
 import json
 # See assignment1.html instructions or README for how to get these credentials
 
-Cred_file=open("Twiiter-Credential.json",'r')
+Cred_file=open("Twitter-Credential.json",'r')
 credentialsjson = []
 for x in Cred_file:
   credentialsjson = (json.loads(x))
