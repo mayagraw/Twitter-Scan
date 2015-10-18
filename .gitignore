@@ -1,2 +1,2 @@
 #Exclude the Credential file updates
-Twitter-Credential.json
+./Twitter-Credential.json
